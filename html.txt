@@ -1,0 +1,25 @@
+				HTML basics 
+
+--we can also write html code in ide(intigrated developement environment) also.
+
+-- HTML program
+
+-- All html programs start with <!doctype html> 
+-- for displaying page title we will use heading and title tag
+-- All main content goes in Body tag
+
+
+The Simple Structure of HTML program
+<!Doctype html>
+<html>
+
+<head>
+<title>....</title>
+</head>
+
+<body>
+...
+...
+</body>
+
+</html> 

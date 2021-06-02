@@ -1,0 +1,50 @@
+-- what is HTML?
+    - The abbr., of HTML: Hyper Text Marlup Language.
+    - The usage of HTML:
+        It is used to create the structure of web page (s)
+    - web page: The page which consist of different formats of content
+    - content: The content is: Text, Images, Forms, Links, Tables etc...,
+
+-- The two important things to create the HTML pages?
+    1. Elements / Tags
+    2. Attributes
+
+-- Element (s) / Tag (s):
+    -The Element is used to Re-present the format of the particular content
+    -There are two types of elements :
+        1. Block:
+            <elementName>
+                ......
+                ......
+            </elementName>
+            ex., <html>...</html>,<p>...</p>,<h1>....</h2>,<body>....</body>,title, div, span, etc....
+
+        2. Inline:
+            <elementName />
+            ex., <br />, <hr />, <img />, <input />
+
+-- Attribute (s):
+    - The Attribute are used to add the characterstics / properties to the Elements
+     1. Block:
+            <elementName attribute="itsValue" attributeName="itsValue">
+                ......
+                ......
+            </elementName>
+            ex., <html>...</html>,<p>...</p>,<h1>....</h2>,<body>....</body>,title, div, span, etc....
+
+        2. Inline:
+            <elementName />
+            ex., <br />, <hr />, <img />, <input />
+
+
+
+
+-- Head:
+    - It is used to display the title of the page
+    - It adds the reosurces(styling & Programming)
+    - It gives page information to search engines or website visitors.
+
+-- Body:
+    - It is used to Display the content of webpage.
+
+-- Meta Elemets are especially used to describe the page information to search engines.
